@@ -43,9 +43,9 @@ More projects coming soon! 🚀
 
 ## 📈 GitHub Stats
 
-![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushaJogi&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaJogi&layout=compact)
 
 ## 🎯 My Goals
 
